@@ -1,0 +1,13 @@
+{
+  "name": "kernel-bot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Vakme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "^2.5.3",
+    "request": "^2.83.0",
+    "winston": "^2.4.0"
+  }
+}
